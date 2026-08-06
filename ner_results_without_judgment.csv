@@ -1,0 +1,1077 @@
+﻿id,entity_text,entity_label,score
+1,FIR,Document,0.9544
+1,Smti Hardeep Kaur Sondhi,Person,0.9352
+1,Tej Pal Singh Sondhi,Person,0.8815
+1,Officer-In-Charge,Person,0.8301
+1,Dispur Police Station,Police Station,0.9871
+1,2.9.2008,Date,0.9869
+1,Dispur P.S.Case No.1383/09,Case Number,0.5502
+1,IPC,Law,0.8466
+1,FIR,Document,0.9707
+1,Gauhati High Court,Court,0.9739
+1,FIR,Document,0.9583
+2,Section 115,Section,0.9112
+2,Section 151,Section,0.8795
+2,Code of Civil Procedure,Law,0.8093
+2,22.02.2006,Date,0.8629
+2,28.02.2006,Date,0.8825
+2,"Civil Judge (Junior Division) No. 2, Morigaon",Court,0.6984
+2,Title Execution No. 4/2005,Case Number,0.7733
+2,Title Suit No. 9 of 2002,Case Number,0.9159
+2,Sri Panchal Bordoloi,Person,0.677
+2,Title Suit No. 9/2002,Case Number,0.9152
+2,"Civil Judge (Junior Division) No.2, Morigaon",Court,0.5373
+2,Schedule A,Document,0.8513
+3,Sri Roy,Person,0.6423
+3,written statement,Document,0.7896
+3,respondent No.10,Person,0.8021
+3,Section 151,Section,0.9696
+3,Code of Civil Procedure,Law,0.9405
+3,written statement,Document,0.7969
+3,respondent No.10,Person,0.8476
+4,20.09.2002,Date,0.8413
+4,this Court,Court,0.5745
+4,WP(C) No. 2721/2001,Case Number,0.9614
+4,07.12.1999,Date,0.8672
+4,Annexure B to the writ petition,Document,0.8707
+4,Mr. D Das,Person,0.8083
+4,Mr. A Deka,Person,0.784
+4,Mr. KP Sarma,Person,0.7359
+5,The respondent No. 1,Person,0.6049
+5,28.02.2011,Date,0.7684
+5,Secretary and the Executive Officer,Person,0.5589
+5,04.03.2011,Date,0.7835
+5,President of the said Gaon Panchayat,Person,0.8727
+5,28.02.2011,Date,0.7192
+5,President of the said Gaon Panchayat,Person,0.8896
+6,petitioner,Person,0.67
+6,Act,Law,0.8211
+6,petitioner,Person,0.6528
+6,petitioner,Person,0.6369
+6,Section 47,Section,0.8497
+6,Article 226,Law,0.6386
+6,Constitution,Law,0.6178
+6,High Court,Court,0.8424
+6,Mr. S. Saikia,Person,0.7823
+6,petitioner,Person,0.5992
+6,petitioner,Person,0.6798
+6,Section 47,Section,0.7962
+6,Act,Law,0.8286
+6,petitioner,Person,0.6751
+6,Act,Law,0.8673
+7,writ petitioner,Person,0.5288
+7,writ petition,Document,0.6849
+7,11-08-2010,Date,0.8614
+7,"Commissioner of Taxes, Assam",Person,0.6793
+7,Commissioner,Person,0.8061
+7,section 105,Section,0.948
+7,Act,Law,0.9567
+7,Act,Law,0.9604
+7,"Superintendent of Taxes, Guwahati, Unit-B",Person,0.6115
+7,writ petition,Document,0.7422
+7,Act,Law,0.9589
+7,Act,Law,0.9636
+7,HSN Code No.3204 12 94,Case Number,0.5169
+7,Act,Law,0.9532
+8,20.11.2009,Date,0.8192
+8,Respondent No.3,Person,0.7078
+8,Respondent No.4,Person,0.7063
+8,18.12.2009,Date,0.7661
+8,"Project Director, DRDA, Kohima",Person,0.7355
+9,writ petitions,Document,0.8748
+9,29.08.2011,Date,0.8608
+9,learned counsel for the respondent No. 8,Person,0.5867
+9,writ petitions,Document,0.8504
+9,the writ petitions,Document,0.8609
+9,the writ petitions,Document,0.9172
+9,learned counsel for the respondents,Person,0.515
+9,Apex Court,Court,0.8373
+9,writ petitions,Document,0.8764
+9,the writ petitions,Document,0.8764
+10,Regulation,Document,0.8487
+10,Regulation,Document,0.7873
+10,Regulation,Document,0.8318
+10,candidates,Person,0.5384
+10,candidates,Person,0.599
+10,31.12.1993,Date,0.6877
+11,OA,Document,0.7756
+11,respondent No. 1,Person,0.8959
+11,respondent No. 2,Person,0.9356
+11,defendant No. 1,Person,0.9457
+11,OA,Document,0.7751
+11,Tribunal,Court,0.7286
+11,defendant No.1,Person,0.9541
+11,respondent No. 2,Person,0.9634
+11,respondent No. 1,Person,0.8935
+12,the petitioner,Person,0.6187
+12,07.10.2004,Date,0.8449
+12,he,Person,0.5591
+12,he,Person,0.7992
+12,01.12.2007,Date,0.6886
+12,he,Person,0.6103
+12,08.01.2008,Date,0.8305
+12,he,Person,0.6422
+12,The petitioner,Person,0.7795
+12,law,Law,0.5225
+13,OA No.25/2006,Case Number,0.9858
+13,EP No.5/2009,Case Number,0.9663
+13,learned Tribunal,Court,0.7179
+13,01.08.2007,Date,0.7895
+13,learned Tribunal,Court,0.7787
+14,13.8.2010,Date,0.8289
+14,Enquiry Officer,Person,0.6309
+14,petitioner,Person,0.5793
+14,"Assam Services (Discipline and Appeal) Rules, 1964",Law,0.8591
+14,Enquiry Officer,Person,0.7434
+14,petitioner,Person,0.6333
+14,Enquiry Officer,Person,0.7271
+14,Supreme Court,Court,0.8372
+15,Mr. C. Baruah,Person,0.7613
+15,petitioner,Person,0.7522
+15,petitioner,Person,0.756
+15,enquiry report,Document,0.8351
+15,22.6.2009,Date,0.8733
+15,02.08.2009,Date,0.8998
+15,Apex Court,Court,0.8021
+15,1993,Date,0.5386
+15,4 SCC 727,Case Number,0.8178
+15,"Managing Director, ECIL, Hyderabad",Person,0.6721
+15,B. Karunakar,Person,0.5966
+16,petitioner,Person,0.9767
+16,petitioner,Person,0.9865
+16,Enquiry Officer,Person,0.9704
+16,report,Document,0.6517
+16,Examiner of Documents,Person,0.7335
+16,report,Document,0.5962
+16,petitioner,Person,0.9899
+16,law,Law,0.5038
+16,petitioner,Person,0.9845
+16,enquiry Officer,Person,0.9584
+16,petitioner,Person,0.9868
+16,report,Document,0.6844
+16,petitioner,Person,0.9776
+17,02.06.2007,Date,0.8209
+17,Sessions Case No. 176/2006,Case Number,0.984
+17,accused,Person,0.7312
+17,appellant,Person,0.5819
+17,Section 376,Section,0.9622
+17,IPC,Law,0.8883
+17,Mr. B.N. Sarma,Person,0.7296
+17,appellant,Person,0.5586
+17,Mr. B. Sinha,Person,0.6593
+17,prosecution case,Document,0.5914
+17,F.I.R.,Document,0.905
+17,16.5.2006,Date,0.9338
+17,prosecutrix,Person,0.7558
+17,accused,Person,0.6229
+17,victim,Person,0.8301
+17,victim,Person,0.847
+17,victim,Person,0.8704
+17,accused,Person,0.5866
+17,victim,Person,0.851
+17,victim,Person,0.853
+17,16.5.2006,Date,0.8994
+17,17.5.2006,Date,0.8481
+17,victim,Person,0.853
+17,accused,Person,0.6891
+17,accused,Person,0.6711
+17,victim,Person,0.8585
+17,victim,Person,0.8436
+17,accused,Person,0.6329
+17,victim,Person,0.8782
+18,The Labour Court,Court,0.8699
+18,"21st February, 2001",Date,0.9242
+18,"22nd February, 2001",Date,0.839
+18,"23rd February, 2001",Date,0.909
+18,"23rd March, 2001",Date,0.8563
+18,respondent No.3,Person,0.9057
+18,the Labour Court,Court,0.8892
+18,respondent No.3,Person,0.9483
+18,respondent No.3,Person,0.9608
+19,applicants,Person,0.5657
+19,Section 436/149 IPC,Section,0.8865
+19,Sessions Case No.20/2000,Case Number,0.9249
+19,informant,Person,0.5294
+19,Katlicherra Police Station,Police Station,0.9932
+19,12.12.1997,Date,0.8897
+19,Katlicherra P.S. Case No.227/1997,Case Number,0.6331
+19,Charge-sheet,Document,0.9459
+19,22.08.1998,Date,0.7964
+19,Court of Sessions,Court,0.9565
+19,27.01.2000,Date,0.9204
+19,learned Sessions Judge,Person,0.7479
+19,the applicants,Person,0.5958
+19,Section 436/149 IPC,Section,0.9235
+19,06.03.2003,Date,0.6953
+19,07.03.2003,Date,0.6566
+20,petitioner,Person,0.5063
+20,tender,Document,0.9421
+20,petitioner,Person,0.5526
+20,Supreme Court,Court,0.7871
+20,1986,Date,0.6503
+20,3 SC 247,Case Number,0.9529
+20,tender,Document,0.9305
+20,tender,Document,0.8696
+20,tender,Document,0.8983
+21,Miss Rajashree Khound,Person,0.9224
+21,24.07.2012,Date,0.8243
+21,Educational Notice,Document,0.7192
+22,Mr. G.N. Sahewalla,Person,0.862
+22,Mr. S. Mohendro,Person,0.8185
+22,Mr. M. N. Anix Singh,Person,0.8563
+22,Mr. Th. Ibohal Singh,Person,0.8523
+22,Mr. K.R. Baruah,Person,0.857
+22,Mr. Genanda,Person,0.7134
+22,Mr. M. Bhuyan,Person,0.8519
+22,Mr. P. Hazarika,Person,0.8546
+23,petitioner,Person,0.7967
+23,detenu,Person,0.7235
+23,Kh. Ibotombi Singh,Person,0.9186
+23,Annexure-A/1,Document,0.8337
+23,6.1.2012,Date,0.9713
+23,detenu,Person,0.7711
+23,Section 3(2),Section,0.9509
+23,"National Security Act, 1980",Law,0.8491
+23,FIR No. 143(6)2001,Case Number,0.9629
+23,SJM PS,Police Station,0.934
+23,detenu,Person,0.7114
+23,FIR No. 210(5)2011,Case Number,0.947
+23,SJM PS,Police Station,0.9488
+23,s 20 UA(P) Act,Section,0.5486
+23,FIR No. 210(5)2011,Case Number,0.9376
+23,SJM PS,Police Station,0.9479
+23,s 20 UA(P) Act,Section,0.6121
+23,detenu,Person,0.7746
+23,FIR No. 143(6)2001,Case Number,0.9518
+23,SJM PS,Police Station,0.9587
+23,s 10/13 UA(P)Act,Section,0.5195
+23,petitioner,Person,0.8298
+23,the petitioner,Person,0.8381
+23,Apex Court,Court,0.928
+23,Huidrom Konungao Singh,Person,0.7449
+24,petitioner,Person,0.8733
+24,Mr. Marim Sanglien Chothe,Person,0.7031
+24,3.4.2012,Date,0.9808
+24,Annexure-N/1,Document,0.889
+24,"District Magistrate, Churachandpur",Court,0.7398
+24,petitioner,Person,0.9166
+24,3.4.2012,Date,0.9618
+24,5.4.2012,Date,0.5925
+24,Section 3,Section,0.8936
+24,NSA,Law,0.8788
+24,petitioner,Person,0.8683
+25,judgment and order,Document,0.9417
+25,06-09-2007,Date,0.9634
+25,"Sessions Judge, Dibrugarh",Court,0.6439
+25,Sessions Case No. 142 of 2002,Case Number,0.9843
+25,accused-appellant,Person,0.6387
+25,Munu Mura,Person,0.9767
+25,Section 34,Section,0.7883
+25,IPC,Law,0.6386
+25,Section 302,Section,0.8633
+25,Section 34,Section,0.7892
+25,IPC,Law,0.5823
+25,Section 201,Section,0.8934
+25,Section 34 IPC,Section,0.7782
+26,judgment and order,Document,0.9294
+26,22-02-2008,Date,0.9635
+26,Darrang,Police Station,0.5828
+26,Sessions Case No. 11 (DM) 2006,Case Number,0.9571
+26,accused-appellant,Person,0.8538
+26,Section 302 IPC,Section,0.8932
+27,Section 376,Section,0.8
+27,IPC,Law,0.5894
+27,PW-7,Person,0.8907
+27,prosecutrix,Person,0.8947
+27,19.3.2008,Date,0.9666
+27,Dhemaji Civil Hospital,Police Station,0.8644
+27,X-ray report,Document,0.8835
+27,FIR,Document,0.7995
+27,prosecutrix,Person,0.8983
+27,last part of 2007,Date,0.5271
+27,medical officer,Person,0.7755
+27,Ext.2,Document,0.628
+27,prosecutrix,Person,0.8844
+28,judgement and order,Document,0.8869
+28,30.01.2008,Date,0.9381
+28,Sessions Case No. 113/2003,Case Number,0.9855
+28,Dibrugarh,Police Station,0.6487
+28,Ratneswar Konwar,Person,0.9592
+28,Smt. Jaya Gogoi,Person,0.962
+28,Section 34 IPC,Section,0.7897
+28,Section 302,Section,0.8387
+28,Section 34 IPC,Section,0.779
+28,Section 201,Section,0.8671
+28,Section 34 IPC,Section,0.7623
+29,1.3.2013,Date,0.9405
+29,Annexure- 6,Document,0.9404
+29,this Court,Court,0.545
+30,Hasina,Person,0.9504
+30,Ejahar,Document,0.5959
+30,Ejahar,Document,0.6185
+30,First Information Report,Document,0.8463
+30,FIR,Document,0.6241
+30,Borghat Police Station,Police Station,0.9972
+30,Case No. 45 of 1998,Case Number,0.9623
+30,Sections 498A/342/302/506,Section,0.5863
+30,IPC,Law,0.8201
+30,accused,Person,0.7675
+30,baby,Person,0.5405
+30,accused,Person,0.759
+30,inquest,Court,0.9302
+30,baby,Person,0.5021
+30,charge-sheet,Document,0.7648
+30,Sections 498A/342/302/506,Section,0.779
+30,IPC,Law,0.8213
+30,accused,Person,0.8426
+31,petitioner,Person,0.8566
+31,D,Person,0.6884
+31,"Foreigners Tribunal, Goalpara",Court,0.7657
+31,FT Case No. 5368/G/12,Case Number,0.9032
+31,district Case No. 793/2010,Case Number,0.7699
+31,the petitioner,Person,0.8321
+31,Indian citizen,Person,0.5633
+31,Title Suit No. 95/2012,Case Number,0.708
+31,"Court of the learned Munsif No.1, Goalpara",Court,0.6858
+31,the petitioner,Person,0.8803
+31,Indian citizen,Person,0.711
+31,Citizenship Act,Law,0.919
+31,D,Person,0.7524
+31,electoral roll,Document,0.921
+32,22.8.2003,Date,0.9393
+32,learned presiding officer,Person,0.5784
+32,"Industrial Tribunal, Silchar",Court,0.9148
+32,Section 33(2)(b),Section,0.9696
+32,"Industrial Disputes Act, 1947",Law,0.9543
+32,Reference Case No. 9/95 and 9/96,Case Number,0.9131
+32,Section 33(2)(b),Section,0.9551
+33,The petitioner,Person,0.8763
+33,Annexure-G,Document,0.91
+33,29.1.2005,Date,0.9372
+33,Watchman,Person,0.868
+33,Watchman,Person,0.9111
+33,AG-III(D),Court,0.7838
+33,30.4.2011,Date,0.8514
+33,the petitioner,Person,0.9382
+33,Watchman,Person,0.9153
+34,11.1.2002,Date,0.8119
+34,"learned Labour Court, Dibrugarh",Court,0.76
+34,Reference Case No. 26/2000,Case Number,0.954
+34,Govt. notification,Document,0.6302
+34,14.12.2000,Date,0.7308
+34,workmen,Person,0.6093
+34,workmen,Person,0.6473
+34,Misc. Case No. 3/2003,Case Number,0.8828
+34,1.1.2003,Date,0.7797
+34,2.6.2003,Date,0.6792
+35,Section 11,Section,0.9605
+35,"Arbitration & Conciliation Act, 1996",Law,0.8069
+35,petitioner,Person,0.5047
+35,agreement,Document,0.7472
+35,14.9.1999,Date,0.7718
+35,Annexure-B,Document,0.8814
+35,agreement,Document,0.6569
+35,petitioner,Person,0.6052
+35,11.10.1999,Date,0.6076
+36,Rangia,Police Station,0.7975
+36,final report,Document,0.9324
+36,FR,Police Station,0.7875
+36,protest petition,Document,0.8897
+36,informant,Person,0.9177
+36,informant,Person,0.9525
+36,respondent,Person,0.8597
+36,respondent,Person,0.9378
+36,CrPC,Law,0.6977
+37,The gist of the prosecution case,Document,0.6926
+37,the deceased,Person,0.9273
+37,23.7.2002,Date,0.8724
+37,the deceased,Person,0.9189
+37,Karuna,Person,0.9728
+37,Manindra Suklabaidya,Person,0.9098
+37,the deceased,Person,0.8536
+37,the deceased,Person,0.8242
+37,Karuna,Person,0.9773
+37,the deceased,Person,0.9465
+38,judgment,Document,0.9587
+38,04.11.2012,Date,0.9265
+38,learned Sessions Judge,Person,0.6492
+38,Darrang at Mangaldoi,Court,0.5774
+38,Sessions Case No. 39(DM)/1999,Case Number,0.9398
+38,Sections 366/34 IPC,Section,0.8624
+38,judgment,Document,0.9552
+38,Sri Babul Bania,Person,0.8981
+38,Sri Dilip Bania,Person,0.8583
+38,judgment,Document,0.9665
+38,Mr. Babul Bania,Person,0.6471
+38,Shri Dilip Bania,Person,0.5886
+38,judgment,Document,0.9459
+38,Sri Dilip Bania,Person,0.8659
+39,judgment,Document,0.9229
+39,04.03.2011,Date,0.9552
+39,F.T.C.,Court,0.6749
+39,Sessions Case NO. 77(N) of 2008,Case Number,0.9507
+39,Md. Nur Islam,Person,0.9887
+39,IPC,Law,0.8016
+39,IPC,Law,0.8071
+39,Section 457,Section,0.5109
+39,IPC,Law,0.8268
+39,judgment,Document,0.9206
+39,Md. Nur Islam,Person,0.9824
+39,judgment,Document,0.9177
+40,individual petitioner,Person,0.7407
+40,Income Tax Officer (TDS),Person,0.8915
+40,petitioner,Person,0.5042
+40,Income Tax Officer (TDS),Person,0.8643
+40,proper representation,Document,0.6873
+40,documentary evidence,Document,0.6602
+40,necessary details,Document,0.5195
+41,17.5.2007,Date,0.9584
+41,Sessions Case No.176 (DM) of 2005,Case Number,0.9291
+41,"respondent Nos. 2, 3, 4 and 5",Person,0.5861
+41,Section 302,Section,0.9728
+41,section 34,Section,0.8894
+41,IPC,Law,0.7871
+41,respondent No.1,Person,0.8665
+41,IPC,Law,0.8349
+41,memo of appeal,Document,0.925
+41,respondent No.1,Person,0.8965
+42,Mr. G Choudury,Person,0.7733
+42,the appellant,Person,0.5455
+42,Mr. Z Kamar,Person,0.7223
+42,impugned judgment,Document,0.5828
+42,prosecution evidence,Document,0.6406
+42,trial court,Court,0.9355
+42,the accused,Person,0.601
+42,the deceased,Person,0.7562
+42,the deceased,Person,0.8083
+42,Section 313,Section,0.9498
+42,Cr.P.C.,Law,0.8825
+42,accused,Person,0.6301
+42,deceased,Person,0.7629
+43,Mr. Talukdar,Person,0.6661
+43,learned counsel for the appellant,Person,0.7218
+43,depositions,Document,0.5088
+43,trial court,Court,0.9167
+43,learned counsel,Person,0.5478
+43,trial court,Court,0.9351
+43,learned counsel,Person,0.5843
+43,PW 14,Person,0.8216
+43,learned counsel,Person,0.544
+43,PW 22,Person,0.8145
+43,salary statement,Document,0.6657
+43,learned counsel,Person,0.5817
+43,learned counsel,Person,0.6306
+44,PW 1,Person,0.8271
+44,Officer-in-Charge,Person,0.7594
+44,Patharkandi Police Station,Police Station,0.9843
+44,21-08-2009,Date,0.8772
+44,19-08-2009,Date,0.9436
+44,minor daughter,Person,0.5197
+44,unidentified person,Person,0.8818
+44,accused,Person,0.8685
+44,accused,Person,0.8765
+44,unidentified person,Person,0.9036
+44,accused,Person,0.8868
+44,bichar,Court,0.7759
+44,FIR,Document,0.9387
+44,120/2009,Case Number,0.8832
+44,IPC,Law,0.8489
+45,judgment,Document,0.6726
+45,12.6.2012,Date,0.9399
+45,"Sessions Judge, Jorhat",Police Station,0.5161
+45,Sessions case No. 153(JJ) of 2008,Case Number,0.9494
+45,judgment,Document,0.6166
+45,appellant,Person,0.9456
+45,Section 306,Section,0.967
+45,Indian Penal Code,Law,0.9534
+45,appellant,Person,0.951
+45,Mr. AM Bora,Person,0.798
+45,appellant,Person,0.9423
+45,Mr. BJ Dutta,Person,0.7308
+45,judgment,Document,0.6156
+46,The appellant,Person,0.8261
+46,Sections 498(A)/306,Section,0.6975
+46,Indian Penal Code,Law,0.9543
+46,judgment,Document,0.8744
+46,29.8.2009,Date,0.9202
+46,learned Addl. Sessions Judge,Person,0.6841
+46,"FTC) No.3, Kamrup, Guwahati",Police Station,0.5354
+46,Sessions Case No. 156(K) of 2008,Case Number,0.957
+46,judgment,Document,0.8078
+46,the appellant,Person,0.8841
+46,Section 498(A)/306,Section,0.8245
+46,the appellant,Person,0.8659
+46,Mr. N. Ahmed,Person,0.8387
+46,the appellant,Person,0.8962
+46,Mr. BJ Dutta,Person,0.7711
+46,judgment,Document,0.775
+47,judgment,Document,0.6725
+47,Sahab Uddin Khan,Person,0.9053
+47,judgment,Document,0.6469
+47,Tamij Uddin,Person,0.8196
+47,Dhanbir Singh,Person,0.9011
+47,Lakhipur police station,Police Station,0.9826
+47,28.04.1996,Date,0.9202
+48,Mona Das,Person,0.7842
+48,FIR,Document,0.9331
+48,Sri Niranjan Namodas,Person,0.8871
+48,Tangla Police Station,Police Station,0.9346
+48,Kento Namo Das,Person,0.8702
+48,Mona Das,Person,0.8374
+48,Smti Durbala Das,Person,0.8578
+48,13.12.2005,Date,0.8751
+48,Mona Das,Person,0.7156
+49,25.9.2003,Date,0.9282
+49,Bikash Das,Person,0.9147
+49,G.D. Entry 495,Document,0.8884
+49,25-9-2003,Date,0.5781
+49,Silchar Police Station,Police Station,0.9742
+49,26.9.2003,Date,0.8045
+49,Probhat Deb Nath,Person,0.8532
+49,PW-3,Person,0.7748
+49,Silchar Police Station,Police Station,0.9782
+49,25.9.2003,Date,0.8906
+49,Amulya Deb Nath,Person,0.8317
+49,PW-1,Person,0.8087
+49,Dilip Nath,Person,0.6304
+49,Section 302 IPC,Section,0.9374
+50,The appellant,Person,0.6953
+50,Section 302,Section,0.9767
+50,Indian Penal Code,Law,0.9678
+50,judgment,Document,0.8366
+50,11.2.2010,Date,0.8816
+50,Biswanath Chariali,Court,0.6981
+50,Sessions Case No. 195 of 2006,Case Number,0.9809
+50,the appellant,Person,0.8261
+50,Mr. R. De,Person,0.8052
+50,the appellant,Person,0.7921
+50,Mrs. B. Bhuyan,Person,0.7922
+50,judgment,Document,0.7312
+50,trial court,Court,0.612
+51,The petitioner,Person,0.9672
+51,The petitioner,Person,0.9703
+51,the petitioner,Person,0.9801
+51,the petitioner,Person,0.9859
+52,Criminal Appeal No. 32 (J) of 2010,Case Number,0.6181
+52,Mrs. S. Roy,Person,0.8837
+52,Mr. AR Sikdar,Person,0.8053
+52,appellant,Person,0.6759
+52,Ms. B. Bhuyan,Person,0.8352
+52,impugned judgment,Document,0.6489
+52,11.2.2010,Date,0.9511
+52,"Sessions Judge, Cachar, Silchar",Court,0.6834
+52,Sessions Case No. 16 of 2007,Case Number,0.9721
+52,impugned judgment,Document,0.6329
+52,appellant,Person,0.5452
+52,Section 302,Section,0.9652
+52,Indian Penal Code,Law,0.971
+53,02.09.06,Date,0.9451
+53,Md. Mazibur Rahman,Person,0.9257
+53,FIR,Document,0.912
+53,Doolahat Police Out-Post,Police Station,0.9905
+53,09.09.06,Date,0.9519
+53,Abdul Mannan,Person,0.9455
+53,appellant,Person,0.7023
+53,Laluk PS Case No. 112/06,Case Number,0.9757
+53,Section 302 IPC,Section,0.902
+53,appellant,Person,0.8413
+53,seizure memo,Document,0.8665
+54,Judgment and Order,Document,0.9705
+54,05.02.2008,Date,0.9724
+54,"Sessions Judge, Darrang",Court,0.6021
+54,Mangaldoi,Person,0.6956
+54,Sessions Case No. 33(DM-3)/97,Case Number,0.9383
+54,accused appellant,Person,0.7946
+54,Section 366/376 IPC,Section,0.9103
+54,victim,Person,0.6769
+55,25.04.2007,Date,0.6378
+55,Anup Deori,Person,0.9521
+55,PW2,Person,0.9605
+55,Hiteswar Deori,Person,0.981
+55,PW4,Person,0.9734
+55,Raju Deori,Person,0.9857
+55,Dibya Deori,Person,0.9857
+55,Dibya Deori,Person,0.9895
+55,Indreswar Deori,Person,0.959
+55,PW2,Person,0.745
+55,PW4,Person,0.9466
+55,PW2,Person,0.7166
+55,PW4,Person,0.9317
+56,Anjan Saikia,Person,0.6671
+56,Digboi Police Station,Police Station,0.9934
+56,First Information Report,Document,0.5121
+56,Digboi Police Station,Police Station,0.9946
+56,Case No.107/2008,Case Number,0.7767
+56,Section 302 IPC,Section,0.9437
+56,Section 302 IPC,Section,0.937
+57,Jadu Tanti,Person,0.8665
+57,FIR,Document,0.9171
+57,Namtola Police Out Post,Police Station,0.9757
+57,10.01.2006,Date,0.9186
+57,09.01.2006,Date,0.9265
+57,Jaganath Tanti,Person,0.9216
+57,Chinta Tanti,Person,0.9334
+57,Sambaru Tanti,Person,0.7923
+57,Chinta Tanti,Person,0.9464
+57,Chinta Tanti,Person,0.9578
+58,judgment and order,Document,0.9516
+58,31.07.2009,Date,0.9437
+58,Sessions Case No. 16 of 2007,Case Number,0.9889
+58,learned Sessions Judge,Person,0.5411
+58,Kartik Chandra Singh,Person,0.9247
+58,IPC,Law,0.7781
+58,Section 302,Section,0.7526
+58,IPC,Law,0.7458
+58,Section 325 IPC,Section,0.7506
+59,22-01-2006,Date,0.7567
+59,Bhadra Lakra,Person,0.9474
+59,the accused,Person,0.9823
+59,the accused,Person,0.9925
+59,the accused,Person,0.9946
+59,the accused,Person,0.9943
+59,the accused,Person,0.9953
+59,the accused,Person,0.9902
+59,23-01-2006,Date,0.6717
+60,charge-sheet,Document,0.8754
+60,appellants,Person,0.7392
+60,Section 341/302/34 IPC,Section,0.8271
+60,FIR,Document,0.5299
+60,learned Additional Sessions Judge,Court,0.7903
+60,appellants,Person,0.6912
+60,Section 341/302/34 IPC,Section,0.8429
+60,PW-5,Person,0.8479
+60,appellants,Person,0.7325
+60,Section 313 Cr.P.C.,Section,0.6568
+60,learned Additional Sessions Judge,Court,0.5408
+61,Ms. S Sarma,Person,0.6594
+61,Ms. B Bhuyan,Person,0.5838
+61,18.09.2011,Date,0.9581
+61,Sri Prafulla Gam,Person,0.947
+61,FIR,Document,0.9375
+61,Gogamukh Police Station,Police Station,0.9933
+61,17.09.2011,Date,0.8573
+61,Bipul Mili,Person,0.8815
+61,18.09.2011,Date,0.9122
+62,Govt. letter No. ASE -72/2013/13,Document,0.7785
+62,26.02.2013,Date,0.8077
+62,"Assam School Service (Govt. Secondary School) Rules,2009",Document,0.6564
+62,Sri Balay Kr. Borah,Person,0.9662
+62,Subject Teacher (Vocational),Person,0.6142
+62,Rule 3,Section,0.5662
+62,"Assam School Service (Govt. Secondary Schools )Rules, 2009",Document,0.5712
+63,The appellant,Person,0.8554
+63,Section 304 Part-I,Section,0.9677
+63,Indian Penal Code,Law,0.9797
+63,judgment,Document,0.914
+63,18.9.2012,Date,0.886
+63,"Sessions Judge, Dhemaji",Court,0.7194
+63,Sessions Case No. 60(DH) of 2007,Case Number,0.9627
+63,the appellant,Person,0.8943
+64,Sri Sibdhan Tanti,Person,0.8042
+64,appellant,Person,0.946
+64,Bishikeswar Tanti,Person,0.8383
+64,Bokakhat Police Station,Police Station,0.8718
+64,Section 302 IPC,Section,0.8969
+64,I.O.,Person,0.5022
+64,appellant,Person,0.9736
+64,Section 302 IPC,Section,0.8844
+64,Section 302 IPC,Section,0.8967
+64,appellant,Person,0.9682
+64,post-mortem report,Document,0.9465
+64,inquest report,Document,0.9656
+64,dead body challan,Document,0.9619
+64,sketch map of the place of occurrence,Document,0.7842
+64,appellant,Person,0.9555
+64,appellant,Person,0.9658
+64,Section 313 CrPC,Section,0.7452
+65,13.10.2010,Date,0.9374
+65,"Sessions Judge, Jorhat",Court,0.5993
+65,Sessions Case No.48 (J-J) of 2009,Case Number,0.9437
+65,impugned judgment,Document,0.5253
+65,appellant,Person,0.942
+65,Section 302,Section,0.9725
+65,Indian Penal Code,Law,0.975
+65,appellant,Person,0.9583
+65,M. J. Islam,Person,0.8461
+65,appellant,Person,0.9333
+65,Mr. NJ Dutta,Person,0.7933
+65,impugned judgment,Document,0.6385
+65,prosecution evidence,Document,0.5071
+66,judgment and order,Document,0.9268
+66,16.10.2012,Date,0.9599
+66,Additional Sessions Judge,Person,0.9024
+66,"FTC, Nagaon",Police Station,0.7145
+66,Sessions Case No.234(N)/2007,Case Number,0.9638
+66,IPC,Law,0.7293
+66,Section 313,Section,0.7206
+66,IPC,Law,0.8198
+66,Section 201 IPC,Section,0.8531
+66,Section 506 IPC,Section,0.8132
+66,IPC,Law,0.7885
+67,petitioner,Person,0.9533
+67,respondent No. 1,Person,0.9791
+67,respondent No. 1,Person,0.9841
+67,respondent No. 1,Person,0.968
+67,Executive Magistrate,Court,0.8995
+67,25-11-2005,Date,0.9626
+67,Officer-in-Charge,Person,0.8721
+67,Sarbhog Police Station,Police Station,0.9365
+67,respondent No. 1,Person,0.9804
+67,Additional Deputy Superintendent of Supplies,Person,0.8919
+67,"District Magistrate, Barpeta",Court,0.8473
+67,petitioner,Person,0.9774
+67,s 133,Section,0.6512
+67,CrPC,Law,0.9536
+67,No. 27/2006,Case Number,0.9533
+67,s 133,Section,0.6822
+67,CrPC,Law,0.9416
+67,petitioner,Person,0.9762
+67,respondent No. 1,Person,0.9831
+67,petitioner,Person,0.9712
+67,written statement,Document,0.7798
+68,Section 13,Section,0.9603
+68,P.F.A. Act,Law,0.9106
+68,Section 13,Section,0.9637
+68,P.F.A. Act,Law,0.9161
+68,Gauranga Sahu,Person,0.7531
+68,2003 Cr.L.J. 3077 SC,Case Number,0.7104
+68,29.10.2010,Date,0.8375
+68,public analysis report,Document,0.7113
+68,Memorandum,Document,0.8989
+69,judgment,Document,0.8439
+69,Morigaon,Police Station,0.7466
+69,Session case No. 60/2009,Case Number,0.9549
+69,Sri Babul Deka,Person,0.9792
+69,Section 366/376 IPC,Section,0.7235
+69,judgment,Document,0.8655
+69,15.2.2011,Date,0.9413
+69,Morigaon,Police Station,0.6082
+69,Criminal Appeal No. 9/2011,Case Number,0.9041
+69,learned trial court,Court,0.8539
+69,IPC,Law,0.7269
+69,Sri Babul Deka,Person,0.9822
+69,criminal revision petition,Document,0.5155
+70,22-11-2012,Date,0.9429
+70,"Additional Sessions Judge, Dhubri",Court,0.6906
+70,Criminal Revision Petition No. 25(4)/2011,Case Number,0.7987
+70,criminal revision petition,Document,0.9085
+70,petitioner,Person,0.8419
+70,Section 401(5),Section,0.9917
+70,Section 399(2),Section,0.9875
+70,Code of Criminal Procedure,Law,0.9471
+70,criminal revision petition,Document,0.9071
+71,respondent No. 2,Person,0.5763
+71,Section 125,Section,0.6619
+71,Cr.P.C.,Law,0.5313
+71,petitioner,Person,0.8644
+71,petitioner,Person,0.8686
+71,M.R. Case No. 366 of 2010,Case Number,0.9576
+71,respondent No. 2,Person,0.6932
+71,petitioner,Person,0.9089
+71,C.R. No. 121 of 2011,Case Number,0.8528
+71,petitioner,Person,0.8839
+71,respondent No. 2,Person,0.6268
+71,petitioner,Person,0.8944
+71,respondent No. 2,Person,0.664
+72,Section 83,Section,0.9383
+72,election petition,Document,0.9807
+72,Section 83,Section,0.9367
+72,election petition,Document,0.9805
+72,election petitioner,Person,0.962
+72,"Code of Civil Procedure, 1908",Law,0.6323
+72,Section 83,Section,0.9217
+72,election petition,Document,0.9824
+72,election petitioner,Person,0.9672
+72,election petition,Document,0.9805
+73,30.12.1993,Date,0.7719
+73,petitioner,Person,0.7291
+73,18.12.2004,Date,0.6689
+73,"Inspector of Schools, Cachar",Person,0.7212
+73,petitioner,Person,0.682
+73,"Assam Pay Commission Report, 2008",Document,0.8122
+74,schedule to the plaint,Document,0.8142
+74,Afazuddin,Person,0.928
+74,plaintiff Nos.1 to 8,Person,0.7861
+74,plaintiff No.9,Person,0.5775
+74,defendant Nos.1 and 2,Person,0.6428
+74,25.05.2002,Date,0.9254
+75,Badiurzaman,Person,0.578
+75,Bahadur Ali,Person,0.8955
+75,Samsul Haque,Person,0.916
+75,Late Badiurzaman,Person,0.8495
+75,Patta No. 15,Document,0.7532
+75,22.01.1998,Date,0.5452
+75,Omed Ali,Person,0.8806
+75,Somed Ali,Person,0.943
+75,12.8.1981,Date,0.7026
+75,Revenue Officer,Person,0.8131
+75,Somed Ali,Person,0.9597
+76,plaintiff,Person,0.6638
+76,31.08.2001,Date,0.7843
+76,"Civil Judge (Senior Division), Nagaon",Court,0.9227
+76,Title Appeal No. 21/2001,Case Number,0.9503
+76,24.04.2001,Date,0.7001
+76,"Civil Judge (Junior Division), No. 1 Nagaon",Court,0.8957
+76,Title Suit No. 74/1994,Case Number,0.919
+76,learned trial Court,Court,0.628
+76,plaintiff,Person,0.6978
+76,20.12.2002,Date,0.5475
+76,02.11.1987,Date,0.7859
+76,plaintiff,Person,0.6218
+77,written statement,Document,0.7679
+77,written statement,Document,0.8061
+77,plaintiff,Person,0.9354
+77,plaintiff,Person,0.9574
+77,defendants,Person,0.6179
+77,plaintiff,Person,0.9566
+77,Section 145 Cr.P.C.,Section,0.8453
+77,RRT No. 235 of 1995,Case Number,0.9782
+77,defendants,Person,0.6481
+77,plaintiff,Person,0.9626
+78,defendant Nos.1,Person,0.7121
+78,defendant Nos.1,Person,0.6906
+78,Mohammad Hussain,Person,0.8861
+78,Taher,Person,0.9193
+78,Wahid,Person,0.8853
+78,Amijur,Person,0.9604
+78,Amijur,Person,0.9785
+78,defendant No.1,Person,0.7714
+78,defendant No.1,Person,0.8384
+78,Amijur,Person,0.9729
+78,plaintiff,Person,0.6225
+78,registered deed of sale No.4140/92,Document,0.6316
+79,plaintiff,Person,0.6764
+79,"Indian Companies Act, 1956",Law,0.9591
+79,plaintiff,Person,0.5295
+79,schedule,Document,0.624
+79,Smti Nandi Gore,Person,0.8086
+79,Rajesh Gore,Person,0.7883
+79,defendant,Person,0.9208
+79,"December, 1981",Date,0.6604
+79,defendant,Person,0.9065
+79,defendant,Person,0.9256
+79,defendant,Person,0.9545
+79,legal notice,Document,0.6422
+79,09.10.1985,Date,0.5827
+79,defendant,Person,0.9438
+79,"31st October, 1985",Date,0.5055
+79,defendant,Person,0.9373
+79,defendant,Person,0.9497
+79,schedule,Document,0.7319
+80,The appellant,Person,0.5464
+80,plaintiff,Person,0.953
+80,annual patta No.19,Document,0.9847
+80,schedule to the plaint,Document,0.7723
+80,defendants,Person,0.7745
+80,annual patta No.19,Document,0.9855
+80,defendants,Person,0.7821
+80,plaintiff,Person,0.9529
+80,Dag No.85,Document,0.5846
+80,annual patta No.19,Document,0.9894
+81,15.06.2012,Date,0.8806
+81,Annexure–8,Document,0.9123
+81,writ petition,Document,0.6756
+81,respondent no. 2,Person,0.9178
+81,18.06.2012,Date,0.845
+81,Annexure–9 of the writ petition,Document,0.9249
+81,Annexure–10 of the writ petition,Document,0.9254
+81,02.07.2012,Date,0.6549
+82,writ petition,Document,0.5218
+82,petitioner,Person,0.8951
+82,28-6-2005,Date,0.5315
+82,respondent No. 3,Person,0.8364
+82,petitioner,Person,0.9113
+82,writ petition,Document,0.6105
+82,petitioner,Person,0.9013
+82,14-10-1996,Date,0.6721
+82,tenders,Document,0.5481
+82,petitioner,Person,0.9085
+82,tenders,Document,0.5909
+82,08.11.1996,Date,0.6769
+82,tenders,Document,0.5946
+82,Sri Hemandrajit Thakuria,Person,0.671
+83,petitioner,Person,0.7103
+83,the petitioner,Person,0.6474
+83,she,Person,0.5404
+83,2003,Date,0.6394
+83,she,Person,0.5278
+83,advertisement,Document,0.8005
+83,3.6.2007,Date,0.7043
+83,advertisement,Document,0.831
+83,subject wise list,Document,0.6401
+84,Mr. GK Joshi,Person,0.6138
+84,Learned senior counsel for the petitioner,Person,0.6131
+84,Commissioner,Person,0.6173
+84,section 264,Section,0.8201
+85,Mr. A. Alom,Person,0.7672
+85,petitioner,Person,0.9682
+85,respondent No.7,Person,0.912
+85,respondent No.7,Person,0.9571
+85,petitioner,Person,0.9715
+85,petitioner,Person,0.9747
+85,petitioner,Person,0.9771
+85,petitioner,Person,0.9596
+85,respondent No.7,Person,0.9492
+85,Mr. Nur Mohammad,Person,0.6256
+86,Mr. S.K. Goswami,Person,0.8925
+86,petitioners,Person,0.9213
+86,Dr. B. Ahmed,Person,0.9297
+86,Mr. J. Chutia,Person,0.8203
+86,"respondent Nos.4, 5 and 6",Person,0.5039
+86,article 226,Law,0.6259
+86,Constitution of India,Law,0.7794
+86,petitioners,Person,0.9254
+86,Assistant Executive Engineer (Mechanical),Person,0.7355
+86,petitioners,Person,0.9375
+86,respondent Nos. 4,Person,0.5701
+86,petitioners,Person,0.9316
+86,respondent Nos. 4,Person,0.5
+87,Mr. N. Dhar,Person,0.5724
+87,Mr. M. Nath,Person,0.5442
+87,Article 227,Law,0.9562
+87,Constitution of India,Law,0.8159
+87,Article 227,Law,0.948
+87,30.9.2005,Date,0.9087
+87,Misc. Case No.180 of 2004,Case Number,0.9735
+88,NIT,Document,0.8604
+88,07/02/2013,Date,0.8857
+88,NIT,Document,0.8976
+88,18/02/2013,Date,0.8857
+89,Inspector of Police,Person,0.58
+89,Special Branch Head Quarter of Assam Police,Police Station,0.5807
+89,Kahilipara,Police Station,0.6617
+89,Swapna Chakraborty,Person,0.8618
+89,"December, 2008",Date,0.7457
+90,Mr. A. Ali,Person,0.7493
+90,petitioner,Person,0.9359
+90,Ms. B. Das,Person,0.8251
+90,Mrs. H. M. Phukan,Person,0.851
+90,Tribunal,Court,0.5115
+90,petitioner,Person,0.9311
+90,petitioner,Person,0.9389
+90,15.102012,Date,0.5637
+90,Habil Seikh,Person,0.904
+90,Ext.1,Document,0.835
+90,petitioner,Person,0.9349
+90,Ext.2,Document,0.7806
+90,Job Card of NREGA,Document,0.7766
+90,Ext.3,Document,0.7546
+90,Ext.4,Document,0.7543
+90,petitioner,Person,0.9412
+91,petitioner,Person,0.6153
+91,MMGS-II,Person,0.7324
+91,show-cause notice,Document,0.9427
+91,12-09-2006,Date,0.922
+91,Regulation 6,Section,0.8928
+91,petitioner,Person,0.5866
+92,petitioner,Person,0.8453
+92,High Court of Judicature at Allahabad,Court,0.9772
+92,27.05.2005,Date,0.8123
+92,petitioner,Person,0.8989
+92,09.06.2005,Date,0.835
+92,"ADIGP, GC, CRPF",Person,0.741
+92,"Deputy Inspector General of Police, CRPF",Person,0.9009
+92,"Deputy Inspector General of Police, CRPF",Person,0.9012
+92,20.09.2005,Date,0.8384
+92,petitioner,Person,0.8867
+93,the workman,Person,0.9136
+93,Industrial Tribunal at Dibrugarh,Court,0.5879
+93,the workman,Person,0.9472
+93,the workman,Person,0.9558
+93,written statements,Document,0.9124
+93,the workman,Person,0.9614
+93,Management,Person,0.5054
+93,the workman,Person,0.9354
+94,petitioner,Person,0.9417
+94,written statement,Document,0.6863
+94,written statement,Document,0.8454
+94,petitioner,Person,0.9315
+94,petitioner,Person,0.9432
+94,Jaynal Ali,Person,0.969
+94,voter list,Document,0.5134
+94,1965,Date,0.5983
+94,1997,Date,0.8607
+94,Rajab Ali,Person,0.8198
+94,Kuran Ali,Person,0.8748
+94,1997,Date,0.7327
+94,petitioner,Person,0.9345
+94,written statement,Document,0.8158
+94,1997,Date,0.7872
+94,written statement,Document,0.5263
+94,petitioner,Person,0.9188
+94,Hazarat Ali,Person,0.8479
+94,written statement,Document,0.6789
+94,petitioner,Person,0.9398
+94,Jaynal Ali,Person,0.9879
+95,petitioners,Person,0.8123
+95,petitioners,Person,0.8529
+95,petitioners,Person,0.9062
+95,Respondent No.1,Person,0.8595
+95,petitioners,Person,0.8727
+95,tripartite agreement,Document,0.8212
+95,petitioners,Person,0.8528
+95,"3rd December, 2012",Date,0.762
+96,Constitution of India,Law,0.7519
+96,petitioner,Person,0.9353
+96,respondent No. 4,Person,0.9035
+96,petitioner,Person,0.953
+96,respondent No. 4,Person,0.9363
+96,petitioner,Person,0.9564
+96,educated unemployed youth,Person,0.5742
+96,national level sports woman,Person,0.5574
+97,Mr. A. M. Buzarbaruah,Person,0.8957
+97,petitioners,Person,0.9412
+97,Mr. J. Handique,Person,0.8695
+97,respondents,Person,0.5559
+97,Article 226,Law,0.5287
+97,Constitution of India,Law,0.8129
+97,petitioners,Person,0.9293
+97,petitioners,Person,0.95
+97,petitioners,Person,0.9327
+98,Mr. J. Ahmed,Person,0.722
+98,Mrs. H.M. Phukan,Person,0.8373
+98,Mr. M. Bhagabati,Person,0.8216
+98,Morigaon,Police Station,0.948
+98,IM(D)T case No. 179/2002,Case Number,0.9567
+98,petitioners,Person,0.6254
+98,IM(D)T Act,Law,0.9419
+98,AIR 2005 SC 2920,Document,0.9066
+98,FT(C) Case No. 105/2007,Case Number,0.9226
+98,judgement and order,Document,0.7869
+98,25/01/2013,Date,0.9698
+98,petitioners,Person,0.6346
+99,Mr. E. Ahmed,Person,0.8468
+99,the petitioner,Person,0.8104
+99,Mrs. H.M. Phukan,Person,0.8901
+99,Ms. B. Das,Person,0.8822
+99,Tribunal,Court,0.7104
+99,Tribunal,Court,0.7622
+99,the petitioner,Person,0.6452
+99,written statement,Document,0.5353
+99,1968,Date,0.6068
+99,written statement,Document,0.7331
+99,1997,Date,0.5614
+100,W.P.(C)No.2647/06,Case Number,0.9645
+100,W.P(C)No.5332/05,Case Number,0.9558
+100,five persons,Person,0.6052
+100,five persons,Person,0.6864
+100,this court,Court,0.9398
+100,judgment and order,Document,0.7734
+100,27.01.2009,Date,0.9602
+100,five persons,Person,0.7251
+100,five persons,Person,0.7393
+100,this court,Court,0.9545
+101,Mr. G Uzir,Person,0.7814
+101,petitioner,Person,0.9346
+101,Mr. J. Handique,Person,0.8293
+101,Mr. C. Baruah,Person,0.8034
+101,suspension order,Document,0.7766
+101,29.12.2001,Date,0.907
+101,show-cause notice,Document,0.928
+101,29.11.2002,Date,0.8138
+101,petitioner,Person,0.9517
+101,petitioner,Person,0.9385
+101,29.12.2001,Date,0.8871
+101,petitioner,Person,0.952
+101,Petitioner,Person,0.8383
+101,31.12.2001,Date,0.6438

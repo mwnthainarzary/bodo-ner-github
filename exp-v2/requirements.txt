@@ -1,0 +1,15 @@
+# For the CRF baseline (runs anywhere, no internet needed after install)
+pandas
+scikit-learn
+sklearn-crfsuite
+seqeval
+joblib
+
+# For the transformer fine-tuning script (needs internet access to
+# huggingface.co to download the pretrained model -- run in Colab or a
+# machine with normal internet access)
+transformers
+datasets
+evaluate
+accelerate
+torch
